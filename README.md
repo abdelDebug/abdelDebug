@@ -1,5 +1,27 @@
-# **💫 About Me:**
-🔭 I’m currently working on<br>Artificial intelligence research and teaching across academia, combining my role as a Lecturer and Module Leader at the Berlin School of Business and Innovation (BSBI) with my postdoctoral research position at Otto-von-Guericke University Magdeburg (OvGU). My work focuses on machine learning, computer vision, and AI-driven digital health solutions, particularly for healthcare and ageing populations.<br>Sources:<br>https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-abdelaziz-triki<br><br>https://www.ict-rollator.ovgu.de/<br><br>🤝 I’m looking to collaborate on<br>Interdisciplinary projects in applied AI, medical and assistive technologies, multimodal systems, and real-world AI deployments that connect academic research with industry and societal needs.<br>Sources:<br>https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-abdelaziz-triki<br><br>https://www.ict-rollator.ovgu.de/<br><br>🤲 I’m looking for help with<br>Building international research collaborations, securing competitive research funding, and scaling AI-based healthcare and assistive technology solutions beyond the laboratory.<br>Source:<br>https://www.ict-rollator.ovgu.de/<br><br>🌱 I’m currently learning<br>Advanced methods in human-computer interaction, multimodal sensor fusion, and adaptive AI systems for digital health, alongside innovative pedagogical approaches for teaching AI at postgraduate level.<br>Sources:<br>https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-abdelaziz-triki<br><br>https://www.ict-rollator.ovgu.de/<br><br>💬 Ask me about<br>Machine learning, deep learning, computer vision, multimodal chatbots, AI in healthcare, assistive robotics, and teaching AI at Master’s level.<br>Source:<br>https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-abdelaziz-triki<br><br>⚡ Fun fact<br>I combine academic teaching with hands-on research by coordinating AI-driven assistive technology projects at OvGU while designing and delivering postgraduate AI modules at BSBI.<br>Sources:<br>https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-abdelaziz-triki<br><br>https://www.ict-rollator.ovgu.de/
+# **💫 About Me**
+
+I am an academic researcher and lecturer working at the intersection of **artificial intelligence research and postgraduate education**.
+
+## **Current roles**  
+I am a Lecturer and Module Leader at the **Berlin School of Business and Innovation (BSBI)**, and a Postdoctoral Researcher at **Otto-von-Guericke University Magdeburg (OvGU)**. My work focuses on machine learning, computer vision, and AI-driven digital health solutions, with particular emphasis on healthcare and ageing populations.  
+
+🔗 Sources  
+- https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-abdelaziz-triki  
+- https://www.ict-rollator.ovgu.de/
+
+## **Open to collaboration on**  
+Applied AI research, medical and assistive technologies, multimodal systems, and real-world AI deployments that bridge academia, industry, and societal impact.
+
+## **Looking for support in**  
+International research collaboration, competitive research funding, and scaling AI-based healthcare and assistive technology solutions beyond the laboratory.
+
+## **Currently exploring**  
+Human-computer interaction, multimodal sensor fusion, adaptive AI for digital health, and innovative pedagogical methods for teaching AI at Master’s level.
+
+## **Ask me about**  
+Machine learning, deep learning, computer vision, multimodal chatbots, AI in healthcare, assistive robotics, and postgraduate AI education.
+
+---
 
 
 ## 🌐 Socials:
