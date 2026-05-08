@@ -3,7 +3,7 @@
 I am an academic researcher and lecturer working at the intersection of **artificial intelligence research and postgraduate education**.
 
 ## **Current roles**  
-I am a Faculty Lecturer at the **Faculty of Computer Science and Informatics (BSBI Berlin)**, and a Postdoctoral Researcher at **Otto-von-Guericke University Magdeburg (OvGU)**. My work focuses on machine learning, computer vision, and AI-driven digital health solutions, with particular emphasis on healthcare and ageing populations.  
+I am a faculty lecturer at the **Faculty of Computer Science & Informatics (BSBI Berlin)**, and a Postdoctoral Researcher at **Otto-von-Guericke University Magdeburg (OvGU)**. My work focuses on machine learning, computer vision, and AI-driven digital health solutions, with particular emphasis on healthcare and ageing populations.  
 
 🔗 Sources  
 - https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-abdelaziz-triki  
